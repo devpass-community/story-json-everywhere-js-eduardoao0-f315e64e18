@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "jest": "^29.5.0"
+    "jest": "^29.5.0",
+    "node-fetch": "^2.6.11"
   },
   "scripts": {
     "test": "jest"
